@@ -6,16 +6,16 @@
     <pubDate>Fri, 15 Jan 2016 15:00:00 +0000</pubDate>
     <lastBuildDate>Fri, 15 Jan 2016 15:08:58 +0000</lastBuildDate>
     <generator>Libsyn WebEngine 2.0</generator>
-    <link>http://dataskeptic.com</link>
+    <link><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></link>
     <language>en</language>
     <copyright><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></copyright>
-    <docs>http://dataskeptic.com</docs>
+    <docs><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></docs>
     <managingEditor><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></managingEditor>
     <itunes:summary><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></itunes:summary>
     <image>
       <url>http://static.libsyn.com/p/assets/2/9/3/8/2938570bb173ccbc/DataSkeptic-Podcast-1A.jpg</url>
       <title>Data Skeptic</title>
-      <link><![CDATA[http://dataskeptic.com]]></link>
+      <link><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></link>
     </image>
     <itunes:author><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></itunes:author>
     <itunes:keywords>datamining,datascience,machinelearning,science,skepticism,statistics</itunes:keywords>
